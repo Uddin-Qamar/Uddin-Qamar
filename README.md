@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Qamar Uddin
 
-<!--
-**Uddin-Qamar/Uddin-Qamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer** | 📱 **Android & Full-Stack Developer** | ☁️ **Cloud & DevOps Enthusiast**  
+🎓 Master’s in Computer Science – University of Eastern Finland  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔹 **Current Role:** Android Developer @ Mobisoft Oy / DDS Wireless Inc.  
+- 🔹 **Experience:** 3+ years in mobile & web development  
+- 🔹 **Cloud & DevOps:** AWS, Google Cloud, Docker, Jenkins, GitLab CI/CD  
+- 🔹 **Databases:**  PostgreSQL, SQL, MongoDB  
+- 🔹 **Languages & Frameworks:** Java, Python, Node.js, Express.js,HTML5, CSS, JavaScript  
+- 🔹 **Collaboration Tools:** Jira, Confluence, Agile/Scrum workflows  
+
+---
+
+## 🧠 Research & Interests
+I am passionate about solving real-world problems through technology.  
+My current interests include:  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🖼️ Computer Vision & Image Processing  
+- 🧠 Deep Learning  
+- 📱 Mobile & Web Applications  
+- ☁️ Cloud Computing & Automation  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+Java • Python • JavaScript • Bash  
+
+**Frontend:**  
+React.js • HTML5 • CSS3  
+
+**Backend:**  
+Node.js • Express.js  
+
+**Databases:**  
+MongoDB • PostgreSQL • SQL  
+
+**DevOps & Cloud:**  
+AWS • Google Cloud • Docker • Jenkins • GitLab CI/CD  
+
+---
+
+## 📫 Connect with Me
+🌐 **LinkedIn:** https://www.linkedin.com/in/qamar-uddin/
+📧 **Email:** qamarzaman838@gmail.com | uddin.qamar@outlook.com  
+
+- 😄 Pronouns: Qamar
+
+---
+⭐️ _"Passionate about continuous learning and building impactful solutions."_ 
