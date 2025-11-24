@@ -42,8 +42,9 @@ MongoDB • PostgreSQL • SQL
 **DevOps & Cloud:**  
 AWS • Google Cloud • Docker • Jenkins • GitLab CI/CD  
 
-**AI and ML and Deep Learning:**  
-CNN • Computer Vision • Python, Py-Torch  
+**AI & ML and Deep Learning**
+CNN • Computer Vision • Python • Py-Torch • Numpy & Pandas  
+
 ---
 
 ## 📫 Connect with Me
