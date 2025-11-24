@@ -10,7 +10,7 @@
 - 🔹 **Experience:** 3+ years in mobile & web development  
 - 🔹 **Cloud & DevOps:** AWS, Google Cloud, Docker, Jenkins, GitLab CI/CD  
 - 🔹 **Databases:**  PostgreSQL, SQL, MongoDB  
-- 🔹 **Languages & Frameworks:** Java, Python,Py-Torch Node.js, Express.js,HTML5, CSS, JavaScript  
+- 🔹 **Languages & Frameworks:** Java, Python,Py-Torch, Node.js, Express.js,HTML5, CSS, JavaScript  
 - 🔹 **Collaboration Tools:** Jira, Confluence, Agile/Scrum workflows  
 
 ---
