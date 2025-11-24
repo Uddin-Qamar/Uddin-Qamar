@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Qamar Uddin
 
-💻 **Software Engineer** | 📱 **Android & Full-Stack Developer** | ☁️ **Cloud & DevOps Enthusiast**  
+💻 **Software Engineer** | 📱 **Android & Full-Stack Developer** | ☁️ **Cloud & DevOps Enthusiast** | 🧑‍🔬 **AI/ML Researcher**  
 🎓 Master’s in Computer Science – University of Eastern Finland  
 
 ---
 
 ## 🚀 About Me
-- 🔹 **Current Role:** Android Developer @ Mobisoft Oy / DDS Wireless Inc.  
+- 🔹 **Current Role:** AI/ML Researcher @ Computational Intelligence Research Group, University of Eastern Finland.  
 - 🔹 **Experience:** 3+ years in mobile & web development  
 - 🔹 **Cloud & DevOps:** AWS, Google Cloud, Docker, Jenkins, GitLab CI/CD  
 - 🔹 **Databases:**  PostgreSQL, SQL, MongoDB  
@@ -42,6 +42,8 @@ MongoDB • PostgreSQL • SQL
 **DevOps & Cloud:**  
 AWS • Google Cloud • Docker • Jenkins • GitLab CI/CD  
 
+**AI and ML and Deep Learning:**  
+CNN • Computer Vision • Python, Py-Torch  
 ---
 
 ## 📫 Connect with Me
