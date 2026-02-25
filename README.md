@@ -43,7 +43,7 @@ MongoDB • PostgreSQL • SQL
 AWS • Google Cloud • Docker • Jenkins • GitLab CI/CD  
 
 **AI & ML and Deep Learning:**
- CNN • Computer Vision • Python • Py-Torch • Numpy & Pandas  
+ CNN • Computer Vision • Transformer-based models • Image Segmentation • Object detection • Python • Py-Torch • Numpy & Pandas  
 
 ---
 
