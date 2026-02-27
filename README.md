@@ -34,7 +34,7 @@ Java • Python • JavaScript • Bash
 React.js • HTML5 • CSS3  
 
 **Backend:**  
-Node.js • Express.js   • Java
+Node.js • Express.js   • Java (Android development)
 
 **Databases:**  
 MongoDB • PostgreSQL • SQL  
