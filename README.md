@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Qamar Uddin
 
-💻 **Software Engineer** | 📱 **Android & Full-Stack Developer** | ☁️ **Cloud & DevOps Enthusiast** | 🧑‍🔬 **AI/ML Researcher**  
+💻 **Software Engineer** | 🧑‍🔬 **AI/ML Researcher**  
 🎓 Master’s in Computer Science – University of Eastern Finland  
 
 ---
@@ -10,7 +10,7 @@
 - 🔹 **Experience:** 3+ years in mobile & web development  
 - 🔹 **Cloud & DevOps:** AWS, Google Cloud, Docker, Jenkins, GitLab CI/CD  
 - 🔹 **Databases:**  PostgreSQL, SQL, MongoDB  
-- 🔹 **Languages & Frameworks:** Java, Python,Py-Torch, Node.js, Express.js,HTML5, CSS, JavaScript  
+- 🔹 **Languages & Frameworks:** Java, Android Studio/Android Development, Python,Py-Torch, Node.js, Express.js,HTML5, CSS, JavaScript  
 - 🔹 **Collaboration Tools:** Jira, Confluence, Agile/Scrum workflows  
 
 ---
